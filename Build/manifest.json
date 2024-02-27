@@ -1,0 +1,9 @@
+{
+    "name": "DisablePostprocessing",
+    "version_number": "0.0.2",
+    "website_url": "https://github.com/Woowz11/LC_DisablePostprocessing",
+    "description": "Allows to remove the outline, fog, helmet UI, HUD. This modification will be useful for players who want to put reshade.",
+    "dependencies": [
+	"BepInEx-BepInExPack-5.4.2100"
+    ]
+}
